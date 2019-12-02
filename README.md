@@ -1,2 +1,0 @@
-# PracticeAngular
-Created with CodeSandbox
